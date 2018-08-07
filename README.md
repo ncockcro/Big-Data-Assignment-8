@@ -1,1 +1,2 @@
 # Big-Data-Assignment-8
+This assignment is designed to get more familiar with K-Means Clusters and being able to create a prediction with machine learning while also manipulating the data from the input file. This program takes in a file with data involving patient's heart analytics and creates predictions based on that data. It also handels situations where some data areas are left blanks while others are not.
